@@ -3,7 +3,7 @@
 A minimalist 32-bit OS built from scratch with an assembly bootloader and C kernel.
 
 ## Project Structure
-
+ 
 ```
 .
 ├── boot.asm          # 16-bit bootloader (BIOS/MBR)
